@@ -1,0 +1,152 @@
+
+J
+java:S1121Ø".Extract the assignment out of this expression.(ªß•Èüÿÿÿÿ
+E
+java:S1121Ü".Extract the assignment out of this expression.(“›û‹
+K
+java:S1066Ì"/Merge this if statement with the enclosing one.(½½½ôøÿÿÿÿ
+E
+java:S1066Ò"/Merge this if statement with the enclosing one.(›—¼)
+F
+java:S1066Ü"/Merge this if statement with the enclosing one.(“›û‹
+Q
+java:S1141¾"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş°™ø
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙö·şÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ‹ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ‹ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ‹ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ‹ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ‹ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ‹ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ‹ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ‹ùÿÿÿÿ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÿ¶¡şÿÿÿÿ
+f	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À×¿®
+e	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ï[
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÆ’
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôíüšşÿÿÿÿ
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›“¨şÿÿÿÿ
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÓÿ¢
+f	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ô‘Ş
+f	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôöó—
+‰
+java:S4165º"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165Õ"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165œ"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165ÿ"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+
+java:S4165²"qRemove this useless assignment; "validationCheckYear" already holds the assigned value along all execution paths.(Ú‰ó›ıÿÿÿÿ
+‰
+java:S4165ô"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165í"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165£"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+Œ
+java:S4165á"pRemove this useless assignment; "validationCheckDay" already holds the assigned value along all execution paths.(û¢îÅûÿÿÿÿ
+‰
+java:S4165"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165Á"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165Î"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165‘"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165â"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+‰
+java:S4165Š"mRemove this useless assignment; "validationCheck" already holds the assigned value along all execution paths.(•Ù üùÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷°á¬
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡ºµ”ıÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ¾î“
+i
+java:S3008"SRename this field "ItemCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—´ß¤
+n
+java:S3008"SRename this field "ItemName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¼°‚ùÿÿÿÿ
+j
+java:S3008"TRename this field "ItemBrand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„ÂŸ
+j
+java:S3008"TRename this field "ItemPrice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø§šÏ
+m
+java:S3008	"WRename this field "ItemQuantity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³½Ã†
+r
+java:S3008
+"WRename this field "ItemCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¢Ûÿÿÿÿÿ
+q
+java:S3008"[Rename this field "ItemPurchaseYear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¢Ä
+r
+java:S3008"\Rename this field "ItemPurchaseMonth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¬„
+u
+java:S3008"ZRename this field "ItemPurchaseDay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆûìüÿÿÿÿ
+~
+java:S1450"cRemove the "itemPurchaseMonthInt" field and declare it as a local variable in the relevant methods.(ø¿ùÆÿÿÿÿÿ
+}
+java:S1450"bRemove the "itemPurchaseYearInt" field and declare it as a local variable in the relevant methods.(–ùÊÙüÿÿÿÿ
+[	java:S107+"AConstructor has 9 parameters, which is greater than 7 authorized.(ùÙö·şÿÿÿÿ
+[	java:S1076"AConstructor has 8 parameters, which is greater than 7 authorized.(õæ‹ùÿÿÿÿ
+;
+java:S3010)"%Remove this assignment of "ItemCode".(û—÷Â
+;
+java:S3010,"%Remove this assignment of "ItemCode".(û—÷Â
+@
+java:S3010-"%Remove this assignment of "ItemName".(’İÑ·şÿÿÿÿ
+A
+java:S3010."&Remove this assignment of "ItemBrand".(¬èÿÿÿÿÿ
+<
+java:S3010/"&Remove this assignment of "ItemPrice".(Œƒƒı
+?
+java:S30100")Remove this assignment of "ItemQuantity".(®ßÀÑ
+D
+java:S30101")Remove this assignment of "ItemCategory".(“É¯şÿÿÿÿ
+C
+java:S30102"-Remove this assignment of "ItemPurchaseYear".(¥’âĞ
+I
+java:S30103".Remove this assignment of "ItemPurchaseMonth".(Èô‚¯ûÿÿÿÿ
+G
+java:S30104",Remove this assignment of "ItemPurchaseDay".(¸±³úÿÿÿÿ
+@
+java:S30107"%Remove this assignment of "ItemName".(’İÑ·şÿÿÿÿ
+A
+java:S30108"&Remove this assignment of "ItemBrand".(¬èÿÿÿÿÿ
+<
+java:S30109"&Remove this assignment of "ItemPrice".(Œƒƒı
+?
+java:S3010:")Remove this assignment of "ItemQuantity".(®ßÀÑ
+D
+java:S3010;")Remove this assignment of "ItemCategory".(“É¯şÿÿÿÿ
+C
+java:S3010<"-Remove this assignment of "ItemPurchaseYear".(¥’âĞ
+I
+java:S3010=".Remove this assignment of "ItemPurchaseMonth".(Èô‚¯ûÿÿÿÿ
+G
+java:S3010>",Remove this assignment of "ItemPurchaseDay".(¸±³úÿÿÿÿ
+M
+java:S2696¬"6Make the enclosing method "static" or remove this set.(¸˜Áà
+^
+java:S1854À"BRemove this useless assignment to local variable "itemNameDouble".(Ç¼Áùÿÿÿÿ
+O
+java:S1481À"3Remove this unused "itemNameDouble" local variable.(Ç¼Áùÿÿÿÿ
+_
+java:S1854Ô"CRemove this useless assignment to local variable "itemBrandDouble".(ıÃÄşÿÿÿÿ
+P
+java:S1481Ô"4Remove this unused "itemBrandDouble" local variable.(ıÃÄşÿÿÿÿ
+]
+java:S1854¢"FRemove this useless assignment to local variable "itemCategoryDouble".(şñçÈ
+N
+java:S1481¢"7Remove this unused "itemCategoryDouble" local variable.(şñçÈ
+j
+java:S3776¬"SRefactor this method to reduce its Cognitive Complexity from 101 to the 15 allowed.(üşç½

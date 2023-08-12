@@ -1,0 +1,72 @@
+0,Praveen,Peris,Bambalapitiya,0774534234,Rog Mouse
+0,Praveen,Peris,Bambalapitiya,0774534234,4K Monitor
+0,Praveen,Peris,Bambalapitiya,0774534234,i7 Laptop
+0,Praveen,Peris,Bambalapitiya,0774534234,Logitech Mouse
+0,Praveen,Peris,Bambalapitiya,0774534234,2K Monitor
+0,Praveen,Peris,Bambalapitiya,0774534234,i5 Laptop
+0,Praveen,Peris,Bambalapitiya,0774534234,i3 Laptop
+0,Praveen,Peris,Bambalapitiya,0774534234,1080p Monitor
+0,Praveen,Peris,Bambalapitiya,0774534234,Ryzen 3 Laptop
+0,Praveen,Peris,Bambalapitiya,0774534234,Ryzen 5 Laptop
+0,Praveen,Peris,Bambalapitiya,0774534234,Ryzen 7 Laptop
+0,Praveen,Peris,Bambalapitiya,0774534234,Ryzen 9 Laptop
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,LED Monitor
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,Gaming SU
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,ROG Router
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,LED Monitor
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,4K Monitor
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,Playstation 4
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,Playstation 5
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,Gaming Chair
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,Prolink Router
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,2K Monitor
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,ROG Monitor
+1,Vihindi,Kothalawala,Wellawaththe,0723927440,i7 Laptop
+2,Vinuka,Silva,Bambalapitiya,0749275839,ROG Mother Board
+2,Vinuka,Silva,Bambalapitiya,0749275839,RTX 2080 Graphics Card
+2,Vinuka,Silva,Bambalapitiya,0749275839,GTX 1660 Graphics Card
+2,Vinuka,Silva,Bambalapitiya,0749275839,i7 Laptop
+2,Vinuka,Silva,Bambalapitiya,0749275839,i5 Laptop
+2,Vinuka,Silva,Bambalapitiya,0749275839,i3 Laptop
+2,Vinuka,Silva,Bambalapitiya,0749275839,i9 Processor
+2,Vinuka,Silva,Bambalapitiya,0749275839,i7 Processor
+2,Vinuka,Silva,Bambalapitiya,0749275839,i5 Processor
+2,Vinuka,Silva,Bambalapitiya,0749275839,i3 Processor
+2,Vinuka,Silva,Bambalapitiya,0749275839,DDR4 16GB RAM
+2,Vinuka,Silva,Bambalapitiya,0749275839,DDR3 8GB RAM
+3,Thiseni,Senethma,Kollupitiya,07237429374,Logitek Keyboard
+3,Thiseni,Senethma,Kollupitiya,07237429374,Logitek Mouse
+3,Thiseni,Senethma,Kollupitiya,07237429374,TUF Gaming Monitor
+3,Thiseni,Senethma,Kollupitiya,07237429374,Power Supply GOLD
+3,Thiseni,Senethma,Kollupitiya,07237429374,Power Supply Silver
+3,Thiseni,Senethma,Kollupitiya,07237429374,Power Supply Titanium
+3,Thiseni,Senethma,Kollupitiya,07237429374,RGB Cooling fans
+3,Thiseni,Senethma,Kollupitiya,07237429374,DDR4 8GB RAM
+3,Thiseni,Senethma,Kollupitiya,07237429374,i7 Laptop
+3,Thiseni,Senethma,Kollupitiya,07237429374,i5 Laptop
+3,Thiseni,Senethma,Kollupitiya,07237429374,i3 Laptop
+3,Thiseni,Senethma,Kollupitiya,07237429374,ROG Monitor
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,Macbook 2020 Air
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,iMac 2020
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,Ryzen 7 Laptop
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,Macbook 2021 Air
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,iMac 2021 
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,iMac 2019 
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,Macbook 2022 Pro
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,iMac 2022
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,Ryzen 7 Laptop
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,Macbook 2020 Pro
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,Mac Pro 2021
+4,Minuri,Rajapakshe,Kollupitiya,0762384628,Macbook 2021 Pro
+5,Lakshan,Withanage,Bambalapitiya,0783242321,i7 Laptop
+5,Lakshan,Withanage,Bambalapitiya,0783242321,Ryzen 9 PC
+5,Lakshan,Withanage,Bambalapitiya,0783242321,1080p Monitor
+5,Lakshan,Withanage,Bambalapitiya,0783242321,i5 Laptop
+5,Lakshan,Withanage,Bambalapitiya,0783242321,Ryzen 7 PC
+5,Lakshan,Withanage,Bambalapitiya,0783242321,Ryzen 3 PC
+5,Lakshan,Withanage,Bambalapitiya,0783242321,i3 Laptop
+5,Lakshan,Withanage,Bambalapitiya,0783242321,RX 580 Graphics Card
+5,Lakshan,Withanage,Bambalapitiya,0783242321,4K Monitor
+5,Lakshan,Withanage,Bambalapitiya,0783242321,Swtich
+5,Lakshan,Withanage,Bambalapitiya,0783242321,Prolink Router
+5,Lakshan,Withanage,Bambalapitiya,0783242321,Huawei Router

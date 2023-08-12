@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="actionMessagePane" prefHeight="40.0" prefWidth="800.0" styleClass="actionMessagePane" stylesheets="@OneNetCafe.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.programming_cw_sem2.CafeController">
+      <Text fx:id="actionMessage" layoutX="42.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Successfull" wrappingWidth="746.4300842285156">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Text>
+</AnchorPane>

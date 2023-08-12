@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.programming_cw_sem2.CafeController">
+   <children>
+      <ImageView fitHeight="338.0" fitWidth="339.0" layoutX="144.0" layoutY="-24.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Logo.png" />
+         </image>
+      </ImageView>
+      <Text fill="CORNFLOWERBLUE" layoutX="211.0" layoutY="347.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Designed By Rumeth Sandinu" wrappingWidth="221.21630859375">
+         <font>
+            <Font name="System Bold" size="17.0" />
+         </font>
+      </Text>
+      <ProgressBar fx:id="progressBar" layoutX="210.0" layoutY="313.0" prefHeight="16.0" prefWidth="214.0" progress="0.0" style="-fx-accent: #004db1;" />
+      <Text fill="#004db1" layoutX="182.0" layoutY="296.0" strokeType="OUTSIDE" strokeWidth="0.0" text="One Net Cafe App" wrappingWidth="280.21630859375">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
