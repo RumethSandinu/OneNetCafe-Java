@@ -1,13 +1,7 @@
 
-a
-java:S1192¶"JDefine a constant instead of duplicating this literal "40000.50" 18 times.(òƒĞ†
-b
-java:S1192"GDefine a constant instead of duplicating this literal "300000" 7 times.(ãë¹½üÿÿÿÿ
-c
-java:S1192"HDefine a constant instead of duplicating this literal "Laptop" 14 times.(Ôùõ´ùÿÿÿÿ
-b
-java:S1192"GDefine a constant instead of duplicating this literal "Apple" 26 times.(õĞøòøÿÿÿÿ
-b
-java:S1192Y"LDefine a constant instead of duplicating this literal "Macbook M2" 23 times.(Êñ°“
-f
-java:S1192"KDefine a constant instead of duplicating this literal "Macbook M1" 3 times.(Á øÿÿÿÿ
+Y
+java:S5976œ"6Replace these 3 tests with a single Parameterized one.(†Ş·…øÿÿÿÿ8òÈú»Ÿ1
+T
+java:S5976­"6Replace these 3 tests with a single Parameterized one.(Ù“†8òÈú»Ÿ1
+Y
+java:S5976¾"6Replace these 3 tests with a single Parameterized one.(¥Ñ‘¤ùÿÿÿÿ8òÈú»Ÿ1
